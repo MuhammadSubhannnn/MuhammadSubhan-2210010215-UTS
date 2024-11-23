@@ -61,7 +61,7 @@ Aplikasi ini dirancang untuk mempermudah pengguna dalam:
 - *File I/O* untuk penyimpanan dan pemuatan data dari file.
 
 ## Pembuat Aplikasi
-Muhammad Rijal Aditya (221010148)
+Muhammad Subhan (2210010215)
 
 ## Project 
 Project UTS Pembuatan Aplikasi Resep Masakan Sederhana
