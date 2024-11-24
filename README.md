@@ -64,7 +64,7 @@ Aplikasi ini dirancang untuk mempermudah pengguna dalam:
 Muhammad Subhan (2210010215)
 
 ## Project 
-Project UTS Pembuatan Aplikasi Resep Masakan Sederhana
+Proyek UTS Pembuatan Aplikasi Resep Masakan Sederhana
 
 ## Demo Aplikasi Resep Masakan Sederhana
 ![App Screenshot](img/ResepMakanan.gif)
