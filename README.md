@@ -67,4 +67,4 @@ Muhammad Subhan (2210010215)
 Project UTS Pembuatan Aplikasi Resep Masakan Sederhana
 
 ## Demo Aplikasi Resep Masakan Sederhana
-![App Screenshot](img/utsresepmakanan.png)
+![App Screenshot](img/ResepMakanan.gif)
